@@ -1,0 +1,41 @@
+:root {
+    color: #1b1b31; 
+    color: #FAB627;
+    color:#00F7FF;
+    color:#003a3a;
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 2px 0px 0.5rem #1b1b31;
+    display: flex;
+    padding: 1rem 0;
+
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    /* justify-content: space-around; */
+}
+
+.nav-brand {
+    font-size: 1.5rem;
+    width: 30vw;
+    font-weight: 600;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-list-item {
+    margin-left:20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color:#333;
+    font-weight: 500;
+}
