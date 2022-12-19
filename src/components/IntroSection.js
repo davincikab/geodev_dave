@@ -1,6 +1,6 @@
-import imageOne from '../assets/images/choropleth_map.PNG';
-import imageTwo from '../assets/images/dark_blue.PNG';
-import imageThree from '../assets/images/mare_stats.PNG';
+import imageOne from '../assets/images/choropleth_map.jpg';
+import imageTwo from '../assets/images/dark_blue.jpg';
+import imageThree from '../assets/images/mare_stats.jpg';
 
 const IntroSection = (props) => {
     return (
